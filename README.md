@@ -5,3 +5,5 @@
 ![image](https://github.com/MouhtaramSoufiane/hadop-hdfs-mapReduce-bigdata/assets/104082651/04aa64fa-b27f-489b-bb64-c051bb9ebc56)
 ![image](https://github.com/MouhtaramSoufiane/hadop-hdfs-mapReduce-bigdata/assets/104082651/ad82ab5b-6030-4304-b34e-5c4fa5bc2657)
 ![image](https://github.com/MouhtaramSoufiane/hadop-hdfs-mapReduce-bigdata/assets/104082651/00255508-3b02-48e9-83e6-329e9367204d)
+![image](https://github.com/MouhtaramSoufiane/hadop-hdfs-mapReduce-bigdata/assets/104082651/fa78b1bb-fed4-4a72-a4b8-86c40fd41de1)
+
